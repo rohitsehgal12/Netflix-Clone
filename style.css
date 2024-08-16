@@ -13,7 +13,7 @@ body {
 
 .main {
     /* aise lgana hai   */
-    background-image: url("NetflixProject/main.jpg");
+    background-image: url("./NetflixProject/main.jpg");
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
